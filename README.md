@@ -25,7 +25,7 @@ The nature of our iterative process allows space to learn from mistakes and we�
  
 Here are some ways to contact the team at TNA. 
 
-- [DROID at TNA](https:/www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/)
+- [DROID at TNA](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/)
 
 - [DROID Google list](https://groups.google.com/g/droid-list)
  
@@ -33,4 +33,4 @@ Here are some ways to contact the team at TNA. 
  
 - Email: PRONOM@nationalarchives.gov.uk   
  
-- [Github](https://github.com/digital-preservation/droid/issues?q=is%3Aopen)
+- [Open an issues on Github](https://github.com/digital-preservation/droid/issues?q=is%3Aopen)
