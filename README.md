@@ -1,9 +1,12 @@
 # DROID Community Hub
 
+ ![DROID logo ](https://user-images.githubusercontent.com/47107641/189124064-2be233d2-edc9-40d4-bfa6-d2f95a79b902.gif)
+
 [DROID is a tool developed by The National Archives](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/) (TNA) to perform automated batch identification of file formats. It’s a free and open source software and the source code can be downloaded from our [GitHub repository](https://github.com/digital-preservation/droid ). Information about file formats including the identification signatures utilised by DROID are kept within [PRONOM](https://www.nationalarchives.gov.uk/PRONOM/Default.aspx), TNA’s file format registry.  
 
 Users have the rights to use, study, change, and distribute open-source software and its source code to anyone and for any purpose. We have developed DROID in a collaborative public manner. We’re very luck to say there is a supportive community behind DROID, it’s well used (500 direct downloads of version 6.5.2 from the TNA website, released in Jan 2022) within the digital archives community. TNA isn't complacent about this and value this relationship. TNA also rely on the tool for some of our own services.  
- 
+
+
 The National Archives have been working in the background to bring some improvements to DROID, with these objectives:   
  
 - unifying the underlying code base for both a command line interface and graphical user interface  
