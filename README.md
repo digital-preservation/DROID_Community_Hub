@@ -33,4 +33,4 @@ Here are some ways to contact the team at TNA. 
  
 - Email: droidsupport@nationalarchives.gov.uk  
  
-- [Open an issues on Github](https://github.com/digital-preservation/droid/issues?q=is%3Aopen)
+- [Open an issue on Github](https://github.com/digital-preservation/droid/issues?q=is%3Aopen)
