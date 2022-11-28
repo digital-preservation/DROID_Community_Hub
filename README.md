@@ -31,6 +31,6 @@ Here are some ways to contact the team at TNA. 
  
 - [Feedback form](https://www.nationalarchives.gov.uk/PRONOM/submitinfo.htm)  
  
-- Email: droidsupport@nationalarchives.gov.uk  
+- Email: PRONOM@nationalarchives.gov.uk  
  
 - [Open an issue on Github](https://github.com/digital-preservation/droid/issues?q=is%3Aopen)
